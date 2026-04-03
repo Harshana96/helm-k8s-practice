@@ -1,0 +1,6 @@
+apiVersion: v2
+name: helm-practice-app
+description: A practice Helm chart for nginx deployment on k3s
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
